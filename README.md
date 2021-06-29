@@ -16,7 +16,9 @@ To find out the spread of data, we have to rely on the variance or the standard 
 * Percentile
 * IQR(Inter Quartile Range)
 
-### 2.  Hypothesis Test - Part 1
+### 3.  Hypothesis Test - Part 1
 In this part, I have practiced the hypothesis testing using P value and T test/Z value. Hypotheis testing is necessary to find out the credibility of an assumption. It helps to figure out if the made assumption is accepted based on the confidence level or it need to be revised.
+
+### 4. Finding outliers Using Z-Score and IQR(InterQuartile Range)
 
 To Be Continued.....
