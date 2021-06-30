@@ -21,4 +21,12 @@ In this part, I have practiced the hypothesis testing using P value and T test/Z
 
 ### 4. Finding outliers Using Z-Score and IQR(InterQuartile Range)
 
+### 5. Normalization vs Standardization
+In this part, I have practiced the normalization and standardization. By definition, normalization is a process to convert the values or magnitude of the features between 0 and 1. Standardization is a process to convert any distrubution into a standard normal distribution (SND) where the mean is 0 and standard deviation is 1.
+
+Now, when to use Normalization and when to use Standardization?
+  Normalization is basically required in deep learning techniques such as CNN, ANN etc. Lets assume we are using Image data for CNN. All the pixels of the data are between 0 to 255. Calculation this huge range for every pixel will consume time and wont be efficient. This is why for a situation like this, normalization is used. 
+  
+  Standardization is required to calculate within a certain range. Most of the supervised machine learning algorithms such as bagging, boosting, gradient descent etc use standardization process.
+  
 To Be Continued.....
